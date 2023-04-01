@@ -1,0 +1,50 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.div1{
+    background-color: blue;
+    width: 100%;
+    height: 50vh;
+
+}
+.div2{
+    font-size: x-large;
+    background-color: black;
+    height: 10vh;
+    color: white;
+    padding-left: 30vh;
+}
+.div3{
+    font-size:xx-large;
+    color: white;
+    margin-left: 80vh;
+}
+.div4{
+    font-size: large;
+    color: white;
+    margin-left: 70vh;
+}
+.div5{
+    font-size: xx-large;
+    color: black;
+    border-radius: 10px;
+    margin-left: 90vh;
+}
+.divv{
+    font-size: xx-large;
+    margin-left: 50vh;
+}
+.divv1{
+    margin-left: 50vh;
+    width: 100vh;
+    font-size: larger;
+}
+.sdsd{
+    background-color: black;
+    color: white;
+    height: 20vh;
+    text-align: center;
+}
